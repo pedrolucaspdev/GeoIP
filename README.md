@@ -1,6 +1,6 @@
 # API Used: https://ip-api.com/docs 🌎
 
-# GeoIP [![LICENSE](https://img.shields.io/badge/Licen%C3%A7a-MIT-brightgreen.svg)]<br/><br/>
+# GeoIP [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br/><br/>
 
 > Return informations of IP Address
 
